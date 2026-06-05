@@ -28,6 +28,9 @@ else:
     print(f"\n[+] Đang chạy ở máy local.")
     print(f"[+] IP kết nối: localhost:25565")
 
+# Tạo thư mục crash-reports nếu chưa tồn tại
+os.makedirs("crash-reports", exist_ok=True)
+
 print("=" * 70)
 print("Khởi động Minecraft Server... Vui lòng đợi...")
 print("=" * 70)
