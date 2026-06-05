@@ -42,9 +42,35 @@ try:
         subprocess.run(["run.bat"], shell=True)
     else:
         # Chạy trên Linux / Codespace
+        # Tìm Java 17 trong Codespace
+        import glob
+        java_cmd = "java"
+        possible_patterns = [
+            "/usr/local/sdkman/candidates/java/17*/bin/java",
+            "/usr/lib/jvm/java-17*/bin/java",
+            "/usr/lib/jvm/jdk-17*/bin/java",
+        ]
+        found_java_paths = []
+        for pattern in possible_patterns:
+            found_java_paths.extend(glob.glob(pattern))
+        
+        if found_java_paths:
+            java_cmd = found_java_paths[0]
+            print(f"[+] Tìm thấy Java 17 tại: {java_cmd}")
+        else:
+            print("[-] CẢNH BÁO: Không tìm thấy phiên bản Java 17 trong hệ thống!")
+            print("[+] Các phiên bản Java đang có sẵn trong SDKMAN:")
+            if os.path.exists("/usr/local/sdkman/candidates/java/"):
+                try:
+                    print("    " + ", ".join(os.listdir("/usr/local/sdkman/candidates/java/")))
+                except Exception:
+                    pass
+
         # Đảm bảo run.sh có quyền thực thi
         os.chmod("run.sh", 0o755)
-        subprocess.run(["./run.sh"])
+        env = os.environ.copy()
+        env["JAVA_CMD"] = java_cmd
+        subprocess.run(["./run.sh"], env=env)
 except KeyboardInterrupt:
     print("\n[!] Đang tắt server...")
 except Exception as e:
