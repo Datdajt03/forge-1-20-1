@@ -6,7 +6,7 @@
 
 # Automatically move client-only mods to a backup folder for server execution
 mkdir -p client_mods_backup
-for pattern in AmbientSounds BadOptimizations BetterAdvancements BetterModsButton brightnessslider Controlling do_a_barrel_roll dynamic-fps dynamiccrosshair embeddium enhancedvisuals entityculling entity_texture_features entity_model_features fancymenu footprint-particles GeckoLibOculusCompat Highlighter hitindication ImmediatelyFast inventoryhud lootbeams MouseTweaks Night notenoughanimations oculus PresenceFootsteps RyoamicLights skinlayers3d sound-physics-remastered WI-Zoom Xaeros; do
+for pattern in AmbientSounds BadOptimizations BetterAdvancements BetterModsButton brightnessslider Controlling do_a_barrel_roll dynamic-fps dynamiccrosshair embeddium enhancedvisuals entityculling entity_texture_features entity_model_features fancymenu footprint-particles GeckoLibOculusCompat Highlighter hitindication ImmediatelyFast inventoryhud lootbeams MouseTweaks Night notenoughanimations oculus PresenceFootsteps RyoamicLights skinlayers3d sound-physics-remastered WI-Zoom Xaeros e4mc; do
     find mods/ -iname "${pattern}*" -exec mv {} client_mods_backup/ \; 2>/dev/null
 done
 

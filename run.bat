@@ -6,7 +6,7 @@ REM  pass them to this script directly
 
 REM Automatically move client-only mods to a backup folder for server execution
 if not exist client_mods_backup mkdir client_mods_backup
-for %%p in (AmbientSounds BadOptimizations BetterAdvancements BetterModsButton brightnessslider Controlling do_a_barrel_roll dynamic-fps dynamiccrosshair embeddium enhancedvisuals entityculling entity_texture_features entity_model_features fancymenu footprint-particles GeckoLibOculusCompat Highlighter hitindication ImmediatelyFast inventoryhud lootbeams MouseTweaks Night notenoughanimations oculus PresenceFootsteps RyoamicLights skinlayers3d sound-physics-remastered WI-Zoom Xaeros) do (
+for %%p in (AmbientSounds BadOptimizations BetterAdvancements BetterModsButton brightnessslider Controlling do_a_barrel_roll dynamic-fps dynamiccrosshair embeddium enhancedvisuals entityculling entity_texture_features entity_model_features fancymenu footprint-particles GeckoLibOculusCompat Highlighter hitindication ImmediatelyFast inventoryhud lootbeams MouseTweaks Night notenoughanimations oculus PresenceFootsteps RyoamicLights skinlayers3d sound-physics-remastered WI-Zoom Xaeros e4mc) do (
     move "mods\*%%p*" client_mods_backup\ >nul 2>&1
 )
 
