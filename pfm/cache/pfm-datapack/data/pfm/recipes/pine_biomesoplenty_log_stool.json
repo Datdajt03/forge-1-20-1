@@ -1,0 +1,13 @@
+{
+  "type": "pfm:furniture",
+  "group": "stools",
+  "ingredients": [
+    {
+      "item": "biomesoplenty:pine_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:pine_biomesoplenty_log_stool"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "biomesoplenty:maple_log"
+    },
+    {
+      "item": "biomesoplenty:maple_log"
+    },
+    {
+      "item": "biomesoplenty:maple_log"
+    },
+    {
+      "item": "biomesoplenty:maple_log"
+    },
+    {
+      "item": "biomesoplenty:maple_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:maple_biomesoplenty_raw_table_log"
+  }
+}

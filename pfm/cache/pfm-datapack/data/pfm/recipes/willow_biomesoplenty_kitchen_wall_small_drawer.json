@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "biomesoplenty:willow_planks"
+    },
+    {
+      "item": "biomesoplenty:willow_planks"
+    },
+    {
+      "item": "biomesoplenty:willow_planks"
+    },
+    {
+      "item": "biomesoplenty:willow_log"
+    },
+    {
+      "item": "biomesoplenty:willow_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "item": "pfm:willow_biomesoplenty_kitchen_wall_small_drawer"
+  }
+}

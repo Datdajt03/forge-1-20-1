@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "biomesoplenty:empyreal_planks"
+    },
+    {
+      "item": "biomesoplenty:empyreal_planks"
+    },
+    {
+      "item": "biomesoplenty:empyreal_planks"
+    },
+    {
+      "item": "biomesoplenty:empyreal_log"
+    },
+    {
+      "item": "biomesoplenty:empyreal_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "item": "pfm:empyreal_biomesoplenty_kitchen_wall_small_drawer"
+  }
+}

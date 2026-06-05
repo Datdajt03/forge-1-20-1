@@ -1,0 +1,36 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "biomesoplenty:pine_planks"
+    },
+    {
+      "item": "biomesoplenty:pine_planks"
+    },
+    {
+      "item": "biomesoplenty:pine_planks"
+    },
+    {
+      "item": "biomesoplenty:pine_planks"
+    },
+    {
+      "item": "biomesoplenty:pine_planks"
+    },
+    {
+      "item": "biomesoplenty:pine_planks"
+    },
+    {
+      "item": "biomesoplenty:pine_log"
+    },
+    {
+      "item": "biomesoplenty:pine_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "pfm:pine_biomesoplenty_kitchen_wall_drawer"
+  }
+}

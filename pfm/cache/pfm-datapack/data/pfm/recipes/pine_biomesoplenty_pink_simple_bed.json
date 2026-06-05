@@ -1,0 +1,27 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "biomesoplenty:pine_planks"
+    },
+    {
+      "item": "biomesoplenty:pine_planks"
+    },
+    {
+      "item": "biomesoplenty:pine_planks"
+    },
+    {
+      "item": "biomesoplenty:pine_planks"
+    },
+    {
+      "item": "biomesoplenty:pine_planks"
+    },
+    {
+      "item": "minecraft:pink_bed"
+    }
+  ],
+  "result": {
+    "item": "pfm:pine_biomesoplenty_pink_simple_bed"
+  }
+}

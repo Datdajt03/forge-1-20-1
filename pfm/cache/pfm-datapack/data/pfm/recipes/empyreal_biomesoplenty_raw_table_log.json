@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "biomesoplenty:empyreal_log"
+    },
+    {
+      "item": "biomesoplenty:empyreal_log"
+    },
+    {
+      "item": "biomesoplenty:empyreal_log"
+    },
+    {
+      "item": "biomesoplenty:empyreal_log"
+    },
+    {
+      "item": "biomesoplenty:empyreal_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:empyreal_biomesoplenty_raw_table_log"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "biomesoplenty:pine_planks"
+    },
+    {
+      "item": "biomesoplenty:pine_planks"
+    },
+    {
+      "item": "biomesoplenty:pine_planks"
+    },
+    {
+      "item": "biomesoplenty:pine_planks"
+    },
+    {
+      "item": "biomesoplenty:pine_planks"
+    },
+    {
+      "item": "biomesoplenty:pine_planks"
+    },
+    {
+      "item": "biomesoplenty:pine_planks"
+    },
+    {
+      "item": "biomesoplenty:pine_planks"
+    },
+    {
+      "item": "biomesoplenty:pine_planks"
+    }
+  ],
+  "result": {
+    "count": 6,
+    "item": "pfm:pine_biomesoplenty_kitchen_wall_counter"
+  }
+}

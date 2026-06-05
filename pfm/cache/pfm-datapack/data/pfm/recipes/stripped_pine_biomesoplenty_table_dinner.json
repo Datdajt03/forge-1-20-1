@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "biomesoplenty:pine_planks"
+    },
+    {
+      "item": "biomesoplenty:pine_planks"
+    },
+    {
+      "item": "biomesoplenty:pine_planks"
+    },
+    {
+      "item": "biomesoplenty:stripped_pine_log"
+    },
+    {
+      "item": "biomesoplenty:stripped_pine_log"
+    },
+    {
+      "item": "biomesoplenty:stripped_pine_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:stripped_pine_biomesoplenty_table_dinner"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "biomesoplenty:empyreal_log"
+    },
+    {
+      "item": "biomesoplenty:empyreal_log"
+    },
+    {
+      "item": "biomesoplenty:empyreal_log"
+    },
+    {
+      "item": "biomesoplenty:empyreal_planks"
+    },
+    {
+      "item": "biomesoplenty:empyreal_planks"
+    },
+    {
+      "item": "biomesoplenty:empyreal_planks"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:empyreal_biomesoplenty_coffee_table_basic"
+  }
+}

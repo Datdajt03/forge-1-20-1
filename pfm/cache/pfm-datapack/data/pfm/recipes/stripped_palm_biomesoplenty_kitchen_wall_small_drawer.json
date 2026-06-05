@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "biomesoplenty:stripped_palm_log"
+    },
+    {
+      "item": "biomesoplenty:stripped_palm_log"
+    },
+    {
+      "item": "biomesoplenty:stripped_palm_log"
+    },
+    {
+      "item": "biomesoplenty:palm_planks"
+    },
+    {
+      "item": "biomesoplenty:palm_planks"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "item": "pfm:stripped_palm_biomesoplenty_kitchen_wall_small_drawer"
+  }
+}

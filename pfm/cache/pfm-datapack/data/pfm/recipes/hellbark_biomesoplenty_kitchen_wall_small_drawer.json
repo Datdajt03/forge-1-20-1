@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "biomesoplenty:hellbark_planks"
+    },
+    {
+      "item": "biomesoplenty:hellbark_planks"
+    },
+    {
+      "item": "biomesoplenty:hellbark_planks"
+    },
+    {
+      "item": "biomesoplenty:hellbark_log"
+    },
+    {
+      "item": "biomesoplenty:hellbark_log"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "item": "pfm:hellbark_biomesoplenty_kitchen_wall_small_drawer"
+  }
+}

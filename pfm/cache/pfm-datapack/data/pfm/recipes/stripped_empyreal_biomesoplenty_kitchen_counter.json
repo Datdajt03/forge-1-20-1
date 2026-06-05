@@ -1,0 +1,37 @@
+{
+  "type": "pfm:furniture",
+  "group": "kitchen",
+  "ingredients": [
+    {
+      "item": "biomesoplenty:stripped_empyreal_log"
+    },
+    {
+      "item": "biomesoplenty:stripped_empyreal_log"
+    },
+    {
+      "item": "biomesoplenty:stripped_empyreal_log"
+    },
+    {
+      "item": "biomesoplenty:stripped_empyreal_log"
+    },
+    {
+      "item": "biomesoplenty:stripped_empyreal_log"
+    },
+    {
+      "item": "biomesoplenty:stripped_empyreal_log"
+    },
+    {
+      "item": "biomesoplenty:empyreal_planks"
+    },
+    {
+      "item": "biomesoplenty:empyreal_planks"
+    },
+    {
+      "item": "biomesoplenty:empyreal_planks"
+    }
+  ],
+  "result": {
+    "count": 6,
+    "item": "pfm:stripped_empyreal_biomesoplenty_kitchen_counter"
+  }
+}

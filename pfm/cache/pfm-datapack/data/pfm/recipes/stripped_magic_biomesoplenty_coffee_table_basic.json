@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "biomesoplenty:magic_planks"
+    },
+    {
+      "item": "biomesoplenty:magic_planks"
+    },
+    {
+      "item": "biomesoplenty:magic_planks"
+    },
+    {
+      "item": "biomesoplenty:stripped_magic_log"
+    },
+    {
+      "item": "biomesoplenty:stripped_magic_log"
+    },
+    {
+      "item": "biomesoplenty:stripped_magic_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:stripped_magic_biomesoplenty_coffee_table_basic"
+  }
+}

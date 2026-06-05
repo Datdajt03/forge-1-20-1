@@ -1,0 +1,28 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "biomesoplenty:redwood_log"
+    },
+    {
+      "item": "biomesoplenty:redwood_log"
+    },
+    {
+      "item": "biomesoplenty:redwood_log"
+    },
+    {
+      "item": "biomesoplenty:redwood_planks"
+    },
+    {
+      "item": "biomesoplenty:redwood_planks"
+    },
+    {
+      "item": "biomesoplenty:redwood_planks"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:redwood_biomesoplenty_coffee_table_basic"
+  }
+}

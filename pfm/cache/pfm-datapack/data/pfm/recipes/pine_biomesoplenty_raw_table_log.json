@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "biomesoplenty:pine_log"
+    },
+    {
+      "item": "biomesoplenty:pine_log"
+    },
+    {
+      "item": "biomesoplenty:pine_log"
+    },
+    {
+      "item": "biomesoplenty:pine_log"
+    },
+    {
+      "item": "biomesoplenty:pine_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:pine_biomesoplenty_raw_table_log"
+  }
+}

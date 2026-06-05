@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "bedroom",
+  "ingredients": [
+    {
+      "item": "biomesoplenty:maple_log"
+    },
+    {
+      "item": "biomesoplenty:maple_log"
+    },
+    {
+      "item": "biomesoplenty:maple_log"
+    },
+    {
+      "item": "biomesoplenty:maple_log"
+    },
+    {
+      "item": "biomesoplenty:maple_log"
+    },
+    {
+      "item": "biomesoplenty:maple_log"
+    },
+    {
+      "item": "biomesoplenty:maple_planks"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:maple_biomesoplenty_classic_nightstand"
+  }
+}

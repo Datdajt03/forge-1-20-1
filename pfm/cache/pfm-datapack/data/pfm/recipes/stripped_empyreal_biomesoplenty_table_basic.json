@@ -1,0 +1,34 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "biomesoplenty:empyreal_planks"
+    },
+    {
+      "item": "biomesoplenty:empyreal_planks"
+    },
+    {
+      "item": "biomesoplenty:empyreal_planks"
+    },
+    {
+      "item": "biomesoplenty:empyreal_planks"
+    },
+    {
+      "item": "biomesoplenty:empyreal_planks"
+    },
+    {
+      "item": "biomesoplenty:stripped_empyreal_log"
+    },
+    {
+      "item": "biomesoplenty:stripped_empyreal_log"
+    },
+    {
+      "item": "biomesoplenty:stripped_empyreal_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:stripped_empyreal_biomesoplenty_table_basic"
+  }
+}

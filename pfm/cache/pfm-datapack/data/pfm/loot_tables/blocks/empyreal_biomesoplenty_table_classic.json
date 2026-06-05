@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "pfm:empyreal_biomesoplenty_table_classic"
+        }
+      ],
+      "name": "empyreal_biomesoplenty_table_classic",
+      "rolls": 1.0
+    }
+  ]
+}

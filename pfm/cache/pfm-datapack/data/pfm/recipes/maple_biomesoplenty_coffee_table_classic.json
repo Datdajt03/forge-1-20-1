@@ -1,0 +1,25 @@
+{
+  "type": "pfm:furniture",
+  "group": "tables",
+  "ingredients": [
+    {
+      "item": "biomesoplenty:maple_log"
+    },
+    {
+      "item": "biomesoplenty:maple_log"
+    },
+    {
+      "item": "biomesoplenty:maple_planks"
+    },
+    {
+      "item": "biomesoplenty:maple_planks"
+    },
+    {
+      "item": "biomesoplenty:maple_planks"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "pfm:maple_biomesoplenty_coffee_table_classic"
+  }
+}
