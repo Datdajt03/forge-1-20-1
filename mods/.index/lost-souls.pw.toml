@@ -1,0 +1,25 @@
+filename = 'lostsouls-1.20-4.1.4.jar'
+name = 'Lost Souls'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.20-4.1.4'
+
+[download]
+hash = 'fddd514bc3a9aef58813866526eac76475930f6d17207f2e85c15472afc910ffc50e48d430aa0a1fa9f6b357054a87e36cf1f781bfd456ed73c7977941d0ccfa'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/3Unrx5yh/versions/v216Wlrv/lostsouls-1.20-4.1.4.jar'
+
+[update.modrinth]
+mod-id = '3Unrx5yh'
+version = 'v216Wlrv'
+
+[[x-prismlauncher-dependencies]]
+addonId = '8VDCUS3b'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'Eyw0UxEx'
+type = 'OPTIONAL'

@@ -1,0 +1,21 @@
+filename = 'cozygunfight-1.20.1-1.0.1.jar'
+name = 'Cozy Gunfight'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.20.1-1.0.1'
+
+[download]
+hash = 'bcf7264d76fdc396a363a4fc7ea181c6c57c87bc53dca22ba2f2dcd31d9cc300288419b5f927af52e2ed6e09646aceb011fba9d576b1f1d07b5823aa009076b4'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/31ciha19/versions/wuIgxNXv/cozygunfight-1.20.1-1.0.1.jar'
+
+[update.modrinth]
+mod-id = '31ciha19'
+version = 'wuIgxNXv'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'SzzJttH8'
+type = 'REQUIRED'

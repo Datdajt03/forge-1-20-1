@@ -1,0 +1,23 @@
+# Ignore Minecraft server runtime directories
+/world/
+/logs/
+/libraries/
+/client_mods_backup/
+/tacz_backup/
+/crash-reports/
+/modernfix/
+pfm/cache/
+
+# Ignore user cache and list files (changes dynamically, user-specific/sensitive)
+/usercache.json
+/usernamecache.json
+/banned-ips.json
+/banned-players.json
+/ops.json
+/whitelist.json
+
+# Ignore temporary/log files
+*.log
+*.lck
+.DS_Store
+Thumbs.db

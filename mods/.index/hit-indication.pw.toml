@@ -1,0 +1,18 @@
+filename = 'hitindication-1.20.1-1.4.jar'
+name = 'Hit Indication'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.20.1-1.4'
+
+[download]
+hash = '4efc433f925b242ff7e7482898c42d62503864f4124af823f405cd224851e5ffef6c956ad2403ed421150f975c13372a565c6ca3236df60893b0d31344746b8e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Si3V1hU5/versions/E50sCVIO/hitindication-1.20.1-1.4.jar'
+
+[update.modrinth]
+mod-id = 'Si3V1hU5'
+version = 'E50sCVIO'

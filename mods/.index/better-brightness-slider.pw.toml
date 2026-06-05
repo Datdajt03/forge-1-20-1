@@ -1,0 +1,22 @@
+filename = 'brightnessslider-forge-1.0-1.20.jar'
+name = 'Better Brightness Slider'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20', '1.20.1', '1.20.1', '1.20.2', '1.20.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'forge-1.0-1.20'
+
+[download]
+hash = 'c18d651ec5b00323cfeee6da986bef125517f9f8ea47c4d88f212235b97357846b7a628bfccafd73b4e0e57aa427953e82ca07087ee69dfbea15360401c5ae8e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/aXleiZbk/versions/KZyVjqn6/brightnessslider-forge-1.0-1.20.jar'
+
+[update.modrinth]
+mod-id = 'aXleiZbk'
+version = 'KZyVjqn6'
+
+[[x-prismlauncher-dependencies]]
+addonId = '4ZqxOvjD'
+type = 'OPTIONAL'
+version = 'iLEHOlRR'

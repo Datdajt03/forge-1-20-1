@@ -1,0 +1,13 @@
+
+["Bullet Settings"]
+	shouldDestroyBlock = true
+	blockResistanceTable = []
+
+["Missile Settings"]
+	jammingCheckDelay = 20
+	jammingEntities = []
+	radarCheckDelay = 5
+
+["Other Settings"]
+	rayTraceDistance = 128
+

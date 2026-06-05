@@ -1,0 +1,21 @@
+filename = 'marbledsmelees-1.20.1-1.0.0.jar'
+name = "Lot' a Melees (Formerly Marbled's Melees)"
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.20.1-1.0.0'
+
+[download]
+hash = 'aab16eb07839f53137d99c03e60b7a1d3a138f83b9c54a9fc1acabf39ca83bdde48440e53490cba78c97205b8df8f47251178a39b02fa2969efc2be076211bb5'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/RIVcpMU0/versions/LMUDlS17/marbledsmelees-1.20.1-1.0.0.jar'
+
+[update.modrinth]
+mod-id = 'RIVcpMU0'
+version = 'LMUDlS17'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'DH83K7CS'
+type = 'REQUIRED'

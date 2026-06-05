@@ -1,0 +1,18 @@
+filename = 'monolib-forge-1.20.1-2.1.0.jar'
+name = 'MonoLib'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'forge-1.20.1-2.1.0'
+
+[download]
+hash = 'aa7982473c62aea887930fcc6328ebc5e62bed31009d8cc9d0d31d1318256defdb2d2e52fe24685ed5160d651adbea005c2967851d275ee9dbc6f855c764b635'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/9leXt4A5/versions/ogfsiWTJ/monolib-forge-1.20.1-2.1.0.jar'
+
+[update.modrinth]
+mod-id = '9leXt4A5'
+version = 'ogfsiWTJ'

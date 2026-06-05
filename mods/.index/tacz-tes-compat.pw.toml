@@ -1,0 +1,25 @@
+filename = 'taczdd-0.1.1.jar'
+name = 'TaCZ: TES Compat'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '0.1.1'
+
+[download]
+hash = '6b9ab85f53e40b58b9dd67f342dee761a3c17ab669189095a0164239aa55b3c68b5431cef7beb1cfa682cbd4c376b6f82708f508748111934212ac0b57ee2910'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/wJXFReaO/versions/A4lu9zt8/taczdd-0.1.1.jar'
+
+[update.modrinth]
+mod-id = 'wJXFReaO'
+version = 'A4lu9zt8'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'SzzJttH8'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '4A86JsDZ'
+type = 'REQUIRED'

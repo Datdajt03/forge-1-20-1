@@ -1,0 +1,18 @@
+filename = 'Lunar-forge-1.20.1-0.2.3.jar'
+name = 'Lunar'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1', '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '0.2.3'
+
+[download]
+hash = '54aa459d9d45976c4ec8d14f8b3bf6b966174ad6bb1cb7bfaff6193c7bfd98ff2abe3e27855ba23e8f92d6a24627e1977b05d0e15360a8941f16f8afac8dbc64'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/PwhlJMsW/versions/Jp7zrPj5/Lunar-forge-1.20.1-0.2.3.jar'
+
+[update.modrinth]
+mod-id = 'PwhlJMsW'
+version = 'Jp7zrPj5'

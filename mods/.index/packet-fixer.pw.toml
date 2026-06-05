@@ -1,0 +1,45 @@
+filename = 'packetfixer-3.1.4-1.18-1.20.4-merged.jar'
+name = 'Packet Fixer'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [
+    '1.18',
+    '1.18',
+    '1.18.1',
+    '1.18.1',
+    '1.18.2',
+    '1.18.2',
+    '1.19',
+    '1.19',
+    '1.19.1',
+    '1.19.1',
+    '1.19.2',
+    '1.19.2',
+    '1.19.3',
+    '1.19.3',
+    '1.19.4',
+    '1.19.4',
+    '1.20',
+    '1.20',
+    '1.20.1',
+    '1.20.1',
+    '1.20.2',
+    '1.20.2',
+    '1.20.3',
+    '1.20.3',
+    '1.20.4',
+    '1.20.4'
+]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '3.1.4'
+
+[download]
+hash = 'b6a5b6f684c538ee907e99362be5d8c86b4b923bb2ef9789a1a7ed739f054dc73a7eca8ddf174f97f102f848d74105cd3b6011d8930a5ff001e71d9efad65dcf'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/c7m1mi73/versions/dCEO67fT/packetfixer-3.1.4-1.18-1.20.4-merged.jar'
+
+[update.modrinth]
+mod-id = 'c7m1mi73'
+version = 'dCEO67fT'

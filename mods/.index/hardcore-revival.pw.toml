@@ -1,0 +1,21 @@
+filename = 'hardcorerevival-forge-1.20.1-12.0.8.jar'
+name = 'Hardcore Revival'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20', '1.20.1', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '12.0.8+forge-1.20.1'
+
+[download]
+hash = '3cc6d262418223d37f78dc6c96ef18958ebd9cad373491ac987c74cd1841e0fe38cfb994b27017c3528a6e3931a44967b63167e6f24d8e2c011e9f97049fca00'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/HqKoXaXz/versions/1Q7W6LAv/hardcorerevival-forge-1.20.1-12.0.8.jar'
+
+[update.modrinth]
+mod-id = 'HqKoXaXz'
+version = '1Q7W6LAv'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'MBAkmtvl'
+type = 'REQUIRED'

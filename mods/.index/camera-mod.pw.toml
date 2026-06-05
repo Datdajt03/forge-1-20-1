@@ -1,0 +1,25 @@
+filename = 'camera-forge-1.20.1-1.0.20.jar'
+name = 'Camera Mod'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'forge-1.20.1-1.0.20'
+
+[download]
+hash = '0f02a16d8d7c7f13ad3a6d22a6b97bb371f5ada1eb6b51fa4d5b399449b074100507ca36874d7faf102afe30048275e1bb54e2cb938626d6a22b5c4a30f68e6c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/oiuNWinn/versions/LgjYRUxt/camera-forge-1.20.1-1.0.20.jar'
+
+[update.modrinth]
+mod-id = 'oiuNWinn'
+version = 'LgjYRUxt'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'u6dRKJwZ'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'nvQzSEkH'
+type = 'OPTIONAL'
