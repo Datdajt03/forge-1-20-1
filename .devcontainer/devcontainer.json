@@ -1,0 +1,10 @@
+{
+    "name": "Minecraft Forge Server",
+    "portsAttributes": {
+        "25565": {
+            "label": "Minecraft Server Port",
+            "onAutoForward": "silent",
+            "visibility": "public"
+        }
+    }
+}
