@@ -1,6 +1,7 @@
 {
   "mobNames": [
-    "corpse:corpse"
+    "corpse:corpse",
+    "minecraft:witch"
   ],
   "persistenceEnablers": []
 }
