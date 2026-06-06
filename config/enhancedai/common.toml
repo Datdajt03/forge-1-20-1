@@ -803,7 +803,8 @@
 	#Witches can throw potions to monsters. Only witches in the `witch/allied_monsters/can_target_monsters` entity type tag will be able to target monsters. The monsters targeted are in the `witch/allied_monsters/eligible_targets` entity type tag.
 	"Enable Allied monsters" = true
 	#Witches drink more potions.
-	"Enable Thirsty witches" = true
+	#DISABLED: Causes ConcurrentModificationException crash when Witch drinks Milk with Apocalypse Now effects active
+	"Enable Thirsty witches" = false
 	#Witches summon Villagers and cast a lightning upon them. Only entity types in the `enhancedai:witch/can_perform_dark_arts` tag will be affected (can be used for any mob, not only witches).
 	"Enable Dark art" = true
 
